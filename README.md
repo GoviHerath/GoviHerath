@@ -1,34 +1,47 @@
-<!-- Header Banner (Modern Dark-Cyan Theme) -->
+<!-- Aesthetic Pastel Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:00B4DB&height=180&section=header&text=M%20G%20S%20Herath&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Computing%20Undergraduate%20|%20AI%20%26%20ML%20Enthusiast%20|%20Full-Stack%20Developer&descAlignY=75&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:a6c1ee&height=200&section=header&text=M%20G%20S%20Herath&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20Undergraduate%20%E2%80%A2%20Creative%20Tech%20Lover&descAlignY=58&descSize=16" width="100%"/>
 </p>
 
-<!-- Animated Typing Subtitle -->
+<!-- Cute Animated Typing Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=BSc+(Hons)+Computing+@+NSBM+%2F+University+of+Plymouth;Building+Intelligent+AI+%26+LLM+Applications;Computer+Vision+%7C+NLP+%7C+Full-Stack+Web+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=21&pause=1000&color=F4A6C1&center=true&vCenter=true&width=600&lines=Hi+there!+Welcome+to+my+GitHub+%E2%9C%A8;Data+Science+@+University+of+Plymouth+%F0%9F%8E%93;Turning+data+%26+ideas+into+cool+projects+%F0%9F%8C%B8" alt="Typing SVG" />
 </p>
 
-<!-- Profile Views & Quick Links -->
+<br/>
+
+### 🌸 About Me
+
+- 🌷 **Student:** BSc (Hons) Data Science undergraduate at **University of Plymouth**
+- ✨ **Vibe:** Passionate about data, clean design, and creative problem-solving
+- 💻 **Currently:** Working on university projects, analyzing data & building neat apps
+- 🎀 **Location:** Based in **Sri Lanka** 🇱🇰
+- 🦋 **Fun Fact:** Always up for learning something new and making things look aesthetic!
+
+<br/>
+
+### 🧸 Tools & Technologies I Use
+
 <p align="center">
-  <a href="https://github.com/GoviHerath"><img src="https://img.shields.io/badge/GitHub-GoviHerath-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/GoviHerath?tab=repositories"><img src="https://img.shields.io/badge/Projects-Portfolio-00B4DB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <img src="https://skillicons.dev/icons?i=py,r,js,html,css,react,mysql,mongodb,vscode,git,github,figma&perline=6" alt="Tech Stack" />
 </p>
 
----
+<br/>
 
-### 👨‍💻 About Me
+### ✨ GitHub Stats
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "M G S Herath"
-        self.university = "NSBM Green University (University of Plymouth)"
-        self.focus_areas = [
-            "Large Language Models (LLMs) & Fine-Tuning (LoRA/QLoRA)",
-            "Computer Vision (YOLOv8) & Machine Learning",
-            "Full-Stack Web Development (React, Vite, Node.js)"
-        ]
-        self.current_goal = "Building practical, real-world AI-powered systems"
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GoviHerath&show_icons=true&hide_border=true&bg_color=161b22&title_color=fbc2eb&icon_color=a6c1ee&text_color=e2e8f0"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoviHerath&layout=compact&hide_border=true&bg_color=161b22&title_color=fbc2eb&text_color=e2e8f0"/>
+</p>
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something awesome together.")
+<br/>
+
+<p align="center">
+  <i>✨ Thanks for visiting my profile! Have a lovely day 🤍</i>
+</p>
+
+<!-- Matching Pastel Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a6c1ee,100:fbc2eb&height=90&section=footer" width="100%"/>
+</p>
