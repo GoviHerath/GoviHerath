@@ -17,7 +17,7 @@
 * 🍓 **Who I am:** A Data Science student at the **University of Plymouth**
 * 🍓 **What I love:** Data analysis, visual storytelling, and neat little creations
 * 🍓 **Right now:** Working through degree coursework and exploring new ideas
-* 🍓 **Based in:** Sri Lanka 🇱🇰
+* 🍓 **Based in:**  🇱🇰
 
 ---
 
