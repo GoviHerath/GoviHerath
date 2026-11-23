@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌸 Govi Herath ✨
+#  Govi Herath 🎀
 
 **BSc (Hons) Data Science** • **University of Plymouth** 🎓
 
@@ -10,15 +10,7 @@
 
 </div><div align="center">
 
-#  Govi Herath 🎀
 
-**BSc (Hons) Data Science** • **University of Plymouth** 🎓
-
-*Turning messy datasets into soft, meaningful stories* 🌷📊
-
-</div>
-
----
 
 ###  About Me
 
