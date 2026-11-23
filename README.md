@@ -10,8 +10,7 @@
 
 </div><div align="center">
 
-
-
+---
 ###  About Me
 
 > *“Curiosity leads me to patterns, and patience helps me make sense of them.”* 🤍
