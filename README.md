@@ -1,5 +1,15 @@
 <div align="center">
 
+# 🌸 Govi Herath ✨
+
+**BSc (Hons) Data Science** • **University of Plymouth** 🎓
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=21&pause=1000&color=F4A6C1&center=true&vCenter=true&width=620&lines=Hi+there!+Welcome+to+my+digital+space+%E2%9C%A8;Data+Science+%40+University+of+Plymouth+%F0%9F%8E%93;Turning+messy+data+into+soft%2C+meaningful+stories+%F0%9F%8C%B8" alt="Typing SVG" />
+
+</div><div align="center">
+
 #  Govi Herath 🎀
 
 **BSc (Hons) Data Science** • **University of Plymouth** 🎓
